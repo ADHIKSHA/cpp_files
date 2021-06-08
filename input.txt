@@ -1,0 +1,8 @@
+S aBaA
+S AB
+A Bc
+B c
+S aSd
+S aAd
+A bAc
+A bc
